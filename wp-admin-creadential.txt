@@ -1,0 +1,4 @@
+wp-admin
+
+user name: admin
+pass: admin@123
